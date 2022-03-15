@@ -1,4 +1,35 @@
 # Common due date scheduling
+
+Esse trabalho foi desenvolvido seguindo as etapas:
+- Heurística construtiva em C++
+- Atualização da Heurística construtiva porém em python
+- Heurística de melhoria em python
+- Meta-Heurística em python
+
+# Fontes de consulta:
+
+https://github.com/luba0587/Scheduling-common-dueDate/blob/master/PRO5826-Luisa_v14.cpp
+
+compara o peso de cada tarefa para término antes (earliness) e porterior (tardiness)
+se earliness < tardiness
+    cadidata tarefa para ser cumprida antes
+se tardiness <= earliness
+    candidata a tarefa para ser cumprida depois
+
+
+se sum de processing time de candidatas earliness <= due date, ok, se não:
+    orderna as tarefas candidatas a earliness pela orderm decrescente do peso de tardiness
+    tira um a um os elementos até que cumpra a due date.
+    insere estes elementos nas candidatas a tardiness
+
+para o grupo earliness restante, ordena o grupo em função da razão p/a - decrescente
+
+para o grupo tardiness restante, ordena o grupo em função da razão p/b - decrescente
+
+https://github.com/swolarz/common-due-date-scheduling/tree/master/src/main/scala
+
+## ========================= ##
+
 There are 7 data files
 
 
@@ -180,91 +211,4 @@ Click here to access these files
 
 
 
-# Fontes de consulta:
 
-https://github.com/luba0587/Scheduling-common-dueDate/blob/master/PRO5826-Luisa_v14.cpp
-
-compara o peso de cada tarefa para término antes (earliness) e porterior (tardiness)
-se earliness < tardiness
-    cadidata tarefa para ser cumprida antes
-se tardiness <= earliness
-    candidata a tarefa para ser cumprida depois
-
-
-se sum de processing time de candidatas earliness <= due date, ok, se não:
-    orderna as tarefas candidatas a earliness pela orderm decrescente do peso de tardiness
-    tira um a um os elementos até que cumpra a due date.
-    insere estes elementos nas candidatas a tardiness
-
-para o grupo earliness restante, ordena o grupo em função da razão p/a - decrescente
-
-para o grupo tardiness restante, ordena o grupo em função da razão p/b - decrescente
-
-
-
-https://github.com/swolarz/common-due-date-scheduling/tree/master/src/main/scala
-
-# Descrição da heurística
-
-Primeiro separa-se os jobs em dois grupos:
-- Candidatos a serem antecipados (earlyCandidates);
-- Candidatos a serem atrasados (lateCandidates);
-
-Ordena-se o grupo de earlyCandidates de ordem decrescente pela razão (b-a)/a (PenaltyBalance) (se houver empate, ordena por ordem crescente pelo tempo de processamento);
-
-Verifica-se se todos os jobs do earlyCandidates conseguem ser finalizados até o prazo, caso não consigam:
-- Retira-se o último job; in
-
-# Heurística proposta
-
-jobVector = lista de jobs com index, p, a, b
-initialize jobOrder, earlyCandidates, lateCandidates;
-calculate dueDate = sum(jobVector.p)*h
-
-for job in jobVector:
-    job.penaltyBalance=(job.b-job.a)/job.a
-    if job.a<job.b:
-        job.finalPenalty=job.p/job.a
-        append job in earlyCandidates
-    else:
-        job.finalPenalty=job.p/job.b
-        append job in lateCandidates
-    
-
-sort(earlyCandidates, descreasing job.penaltyBalance)
-
-initialize counter=0
-for job in earlyCandidates:
-    if sum(earlyCandidates.p)>dueDate:
-        append last item from earlyCandidates in lateCandidates
-        delete last item from earlyCandidates
-
-sort(earlyCandidates, descreasing finalPenalty)
-sort(lateCandidates, increasing finalPenalty)
-
-if sum(earlyCandidates.p)<dueDate:
-    for job in lateCandidates:
-        if sum(earlyCandidates.p)+job.p<dueDate:
-            append job in earlyCandidates
-            delete job of lateCandidates
-
-append lateCandidates and earlyCandidates to jobOrder
-
-### parte de busca exaustiva 
-initialize cost, cost_hat
-initialize processingTime
-initialize delayed_index
-
-
-cost=sum(jobOrder.p*jobOrder.a if job finish time < dueDate else jobOrder.p*jobOrder.b)
-
-for job in jobOrder where finish Time < dueDate:
-    enforce job.finish time = dueDate
-    newOrder= recalculating finish time of all jobs (before and after the current test);
-    sort(newOrder for late Jobs, increasing finalPenalty)
-    cost_har=sum(newOrder.p*newOrder.a if job finish time < dueDate else newOrder.p*newOrder.b)
-    if cost_hat<cost:
-        cost=cost_hat
-        jobOrder=newOrder
-
-return jobOrder
