@@ -1,0 +1,3039 @@
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 0 
+inicio = 0 
+len early candidates = 3 
+len late candidates = 7 
+time = 0.0003833770751953125 
+penalty construtiva = 2032 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 1 
+inicio = 0 
+len early candidates = 3 
+len late candidates = 7 
+time = 0.0013568401336669922 
+penalty construtiva = 1077 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 2 
+inicio = 0 
+len early candidates = 1 
+len late candidates = 9 
+time = 0.0009951591491699219 
+penalty construtiva = 1731 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 3 
+inicio = 0 
+len early candidates = 3 
+len late candidates = 7 
+time = 0.00048542022705078125 
+penalty construtiva = 2183 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 4 
+inicio = 0 
+len early candidates = 3 
+len late candidates = 7 
+time = 0.0004143714904785156 
+penalty construtiva = 1211 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 5 
+inicio = 0 
+len early candidates = 3 
+len late candidates = 7 
+time = 0.0009119510650634766 
+penalty construtiva = 1592 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 6 
+inicio = 0 
+len early candidates = 3 
+len late candidates = 7 
+time = 0.0006740093231201172 
+penalty construtiva = 2612 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 7 
+inicio = 0 
+len early candidates = 3 
+len late candidates = 7 
+time = 0.0003066062927246094 
+penalty construtiva = 1810 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 8 
+inicio = 0 
+len early candidates = 4 
+len late candidates = 6 
+time = 0.00030803680419921875 
+penalty construtiva = 1577 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 9 
+inicio = 0 
+len early candidates = 3 
+len late candidates = 7 
+time = 0.0006661415100097656 
+penalty construtiva = 1885 
+======================================== 
+instancia = 10 
+h = 0.4 
+id = 0 
+inicio = 0 
+len early candidates = 4 
+len late candidates = 6 
+time = 0.00044918060302734375 
+penalty construtiva = 1025 
+======================================== 
+instancia = 10 
+h = 0.4 
+id = 1 
+inicio = 13 
+len early candidates = 4 
+len late candidates = 6 
+time = 0.0006954669952392578 
+penalty construtiva = 733 
+======================================== 
+instancia = 10 
+h = 0.4 
+id = 2 
+inicio = 0 
+len early candidates = 4 
+len late candidates = 6 
+time = 0.00036144256591796875 
+penalty construtiva = 954 
+======================================== 
+instancia = 10 
+h = 0.4 
+id = 3 
+inicio = 0 
+len early candidates = 5 
+len late candidates = 5 
+time = 0.00022339820861816406 
+penalty construtiva = 1251 
+======================================== 
+instancia = 10 
+h = 0.4 
+id = 4 
+inicio = 0 
+len early candidates = 5 
+len late candidates = 5 
+time = 0.00034618377685546875 
+penalty construtiva = 892 
+======================================== 
+instancia = 10 
+h = 0.4 
+id = 5 
+inicio = 0 
+len early candidates = 5 
+len late candidates = 5 
+time = 0.00020456314086914062 
+penalty construtiva = 908 
+======================================== 
+instancia = 10 
+h = 0.4 
+id = 6 
+inicio = 0 
+len early candidates = 5 
+len late candidates = 5 
+time = 0.0007903575897216797 
+penalty construtiva = 1632 
+======================================== 
+instancia = 10 
+h = 0.4 
+id = 7 
+inicio = 0 
+len early candidates = 4 
+len late candidates = 6 
+time = 0.00036525726318359375 
+penalty construtiva = 1040 
+======================================== 
+instancia = 10 
+h = 0.4 
+id = 8 
+inicio = 0 
+len early candidates = 4 
+len late candidates = 6 
+time = 0.0005576610565185547 
+penalty construtiva = 884 
+======================================== 
+instancia = 10 
+h = 0.4 
+id = 9 
+inicio = 0 
+len early candidates = 4 
+len late candidates = 6 
+time = 0.0003814697265625 
+penalty construtiva = 1140 
+======================================== 
+instancia = 10 
+h = 0.6 
+id = 0 
+inicio = 1 
+len early candidates = 6 
+len late candidates = 4 
+time = 0.001386404037475586 
+penalty construtiva = 841 
+======================================== 
+instancia = 10 
+h = 0.6 
+id = 1 
+inicio = 26 
+len early candidates = 4 
+len late candidates = 6 
+time = 0.0004436969757080078 
+penalty construtiva = 615 
+======================================== 
+instancia = 10 
+h = 0.6 
+id = 2 
+inicio = 8 
+len early candidates = 6 
+len late candidates = 4 
+time = 0.0004413127899169922 
+penalty construtiva = 793 
+======================================== 
+instancia = 10 
+h = 0.6 
+id = 3 
+inicio = 2 
+len early candidates = 6 
+len late candidates = 4 
+time = 0.00042748451232910156 
+penalty construtiva = 815 
+======================================== 
+instancia = 10 
+h = 0.6 
+id = 4 
+inicio = 7 
+len early candidates = 6 
+len late candidates = 4 
+time = 0.00040793418884277344 
+penalty construtiva = 543 
+======================================== 
+instancia = 10 
+h = 0.6 
+id = 5 
+inicio = 8 
+len early candidates = 6 
+len late candidates = 4 
+time = 0.00030422210693359375 
+penalty construtiva = 755 
+======================================== 
+instancia = 10 
+h = 0.6 
+id = 6 
+inicio = 2 
+len early candidates = 6 
+len late candidates = 4 
+time = 0.00040721893310546875 
+penalty construtiva = 1102 
+======================================== 
+instancia = 10 
+h = 0.6 
+id = 7 
+inicio = 0 
+len early candidates = 5 
+len late candidates = 5 
+time = 0.0005195140838623047 
+penalty construtiva = 628 
+======================================== 
+instancia = 10 
+h = 0.6 
+id = 8 
+inicio = 2 
+len early candidates = 7 
+len late candidates = 3 
+time = 0.000484466552734375 
+penalty construtiva = 726 
+======================================== 
+instancia = 10 
+h = 0.6 
+id = 9 
+inicio = 0 
+len early candidates = 6 
+len late candidates = 4 
+time = 0.0004458427429199219 
+penalty construtiva = 710 
+======================================== 
+instancia = 10 
+h = 0.8 
+id = 0 
+inicio = 16 
+len early candidates = 6 
+len late candidates = 4 
+time = 0.0002918243408203125 
+penalty construtiva = 818 
+======================================== 
+instancia = 10 
+h = 0.8 
+id = 1 
+inicio = 52 
+len early candidates = 4 
+len late candidates = 6 
+time = 0.0004432201385498047 
+penalty construtiva = 615 
+======================================== 
+instancia = 10 
+h = 0.8 
+id = 2 
+inicio = 33 
+len early candidates = 6 
+len late candidates = 4 
+time = 0.00027060508728027344 
+penalty construtiva = 793 
+======================================== 
+instancia = 10 
+h = 0.8 
+id = 3 
+inicio = 22 
+len early candidates = 6 
+len late candidates = 4 
+time = 0.0002853870391845703 
+penalty construtiva = 815 
+======================================== 
+instancia = 10 
+h = 0.8 
+id = 4 
+inicio = 26 
+len early candidates = 6 
+len late candidates = 4 
+time = 0.0004410743713378906 
+penalty construtiva = 543 
+======================================== 
+instancia = 10 
+h = 0.8 
+id = 5 
+inicio = 26 
+len early candidates = 6 
+len late candidates = 4 
+time = 0.0004248619079589844 
+penalty construtiva = 755 
+======================================== 
+instancia = 10 
+h = 0.8 
+id = 6 
+inicio = 20 
+len early candidates = 6 
+len late candidates = 4 
+time = 0.0005245208740234375 
+penalty construtiva = 1083 
+======================================== 
+instancia = 10 
+h = 0.8 
+id = 7 
+inicio = 14 
+len early candidates = 6 
+len late candidates = 4 
+time = 0.0010106563568115234 
+penalty construtiva = 598 
+======================================== 
+instancia = 10 
+h = 0.8 
+id = 8 
+inicio = 11 
+len early candidates = 6 
+len late candidates = 4 
+time = 0.00130462646484375 
+penalty construtiva = 554 
+======================================== 
+instancia = 10 
+h = 0.8 
+id = 9 
+inicio = 14 
+len early candidates = 7 
+len late candidates = 3 
+time = 0.00046133995056152344 
+penalty construtiva = 671 
+======================================== 
+instancia = 20 
+h = 0.2 
+id = 0 
+inicio = 0 
+len early candidates = 6 
+len late candidates = 14 
+time = 0.0007193088531494141 
+penalty construtiva = 4434 
+======================================== 
+instancia = 20 
+h = 0.2 
+id = 1 
+inicio = 0 
+len early candidates = 6 
+len late candidates = 14 
+time = 0.0007588863372802734 
+penalty construtiva = 8761 
+======================================== 
+instancia = 20 
+h = 0.2 
+id = 2 
+inicio = 0 
+len early candidates = 4 
+len late candidates = 16 
+time = 0.0007443428039550781 
+penalty construtiva = 6366 
+======================================== 
+instancia = 20 
+h = 0.2 
+id = 3 
+inicio = 0 
+len early candidates = 4 
+len late candidates = 16 
+time = 0.0008111000061035156 
+penalty construtiva = 9378 
+======================================== 
+instancia = 20 
+h = 0.2 
+id = 4 
+inicio = 0 
+len early candidates = 4 
+len late candidates = 16 
+time = 0.0016062259674072266 
+penalty construtiva = 4340 
+======================================== 
+instancia = 20 
+h = 0.2 
+id = 5 
+inicio = 0 
+len early candidates = 5 
+len late candidates = 15 
+time = 0.0007224082946777344 
+penalty construtiva = 6644 
+======================================== 
+instancia = 20 
+h = 0.2 
+id = 6 
+inicio = 0 
+len early candidates = 3 
+len late candidates = 17 
+time = 0.0007593631744384766 
+penalty construtiva = 11367 
+======================================== 
+instancia = 20 
+h = 0.2 
+id = 7 
+inicio = 0 
+len early candidates = 4 
+len late candidates = 16 
+time = 0.0006518363952636719 
+penalty construtiva = 4226 
+======================================== 
+instancia = 20 
+h = 0.2 
+id = 8 
+inicio = 0 
+len early candidates = 5 
+len late candidates = 15 
+time = 0.000568389892578125 
+penalty construtiva = 3541 
+======================================== 
+instancia = 20 
+h = 0.2 
+id = 9 
+inicio = 0 
+len early candidates = 6 
+len late candidates = 14 
+time = 0.0007040500640869141 
+penalty construtiva = 5347 
+======================================== 
+instancia = 20 
+h = 0.4 
+id = 0 
+inicio = 1 
+len early candidates = 9 
+len late candidates = 11 
+time = 0.0005838871002197266 
+penalty construtiva = 3067 
+======================================== 
+instancia = 20 
+h = 0.4 
+id = 1 
+inicio = 0 
+len early candidates = 10 
+len late candidates = 10 
+time = 0.0008764266967773438 
+penalty construtiva = 5017 
+======================================== 
+instancia = 20 
+h = 0.4 
+id = 2 
+inicio = 0 
+len early candidates = 8 
+len late candidates = 12 
+time = 0.0011749267578125 
+penalty construtiva = 3874 
+======================================== 
+instancia = 20 
+h = 0.4 
+id = 3 
+inicio = 0 
+len early candidates = 8 
+len late candidates = 12 
+time = 0.0011909008026123047 
+penalty construtiva = 5151 
+======================================== 
+instancia = 20 
+h = 0.4 
+id = 4 
+inicio = 0 
+len early candidates = 11 
+len late candidates = 9 
+time = 0.0009028911590576172 
+penalty construtiva = 2729 
+======================================== 
+instancia = 20 
+h = 0.4 
+id = 5 
+inicio = 0 
+len early candidates = 8 
+len late candidates = 12 
+time = 0.0008857250213623047 
+penalty construtiva = 3582 
+======================================== 
+instancia = 20 
+h = 0.4 
+id = 6 
+inicio = 0 
+len early candidates = 8 
+len late candidates = 12 
+time = 0.0008032321929931641 
+penalty construtiva = 6302 
+======================================== 
+instancia = 20 
+h = 0.4 
+id = 7 
+inicio = 0 
+len early candidates = 8 
+len late candidates = 12 
+time = 0.0007371902465820312 
+penalty construtiva = 2190 
+======================================== 
+instancia = 20 
+h = 0.4 
+id = 8 
+inicio = 0 
+len early candidates = 9 
+len late candidates = 11 
+time = 0.001079559326171875 
+penalty construtiva = 2121 
+======================================== 
+instancia = 20 
+h = 0.4 
+id = 9 
+inicio = 0 
+len early candidates = 8 
+len late candidates = 12 
+time = 0.0008537769317626953 
+penalty construtiva = 3579 
+======================================== 
+instancia = 20 
+h = 0.6 
+id = 0 
+inicio = 34 
+len early candidates = 9 
+len late candidates = 11 
+time = 0.0011708736419677734 
+penalty construtiva = 2986 
+======================================== 
+instancia = 20 
+h = 0.6 
+id = 1 
+inicio = 0 
+len early candidates = 13 
+len late candidates = 7 
+time = 0.0010395050048828125 
+penalty construtiva = 3354 
+======================================== 
+instancia = 20 
+h = 0.6 
+id = 2 
+inicio = 29 
+len early candidates = 10 
+len late candidates = 10 
+time = 0.0005884170532226562 
+penalty construtiva = 3583 
+======================================== 
+instancia = 20 
+h = 0.6 
+id = 3 
+inicio = 0 
+len early candidates = 11 
+len late candidates = 9 
+time = 0.00089263916015625 
+penalty construtiva = 3326 
+======================================== 
+instancia = 20 
+h = 0.6 
+id = 4 
+inicio = 15 
+len early candidates = 11 
+len late candidates = 9 
+time = 0.002504110336303711 
+penalty construtiva = 2223 
+======================================== 
+instancia = 20 
+h = 0.6 
+id = 5 
+inicio = 15 
+len early candidates = 11 
+len late candidates = 9 
+time = 0.0012984275817871094 
+penalty construtiva = 3010 
+======================================== 
+instancia = 20 
+h = 0.6 
+id = 6 
+inicio = 0 
+len early candidates = 11 
+len late candidates = 9 
+time = 0.0010600090026855469 
+penalty construtiva = 4133 
+======================================== 
+instancia = 20 
+h = 0.6 
+id = 7 
+inicio = 13 
+len early candidates = 10 
+len late candidates = 10 
+time = 0.0013043880462646484 
+penalty construtiva = 1638 
+======================================== 
+instancia = 20 
+h = 0.6 
+id = 8 
+inicio = 13 
+len early candidates = 11 
+len late candidates = 9 
+time = 0.0019185543060302734 
+penalty construtiva = 1986 
+======================================== 
+instancia = 20 
+h = 0.6 
+id = 9 
+inicio = 0 
+len early candidates = 10 
+len late candidates = 10 
+time = 0.001150369644165039 
+penalty construtiva = 2116 
+======================================== 
+instancia = 20 
+h = 0.8 
+id = 0 
+inicio = 77 
+len early candidates = 9 
+len late candidates = 11 
+time = 0.0010614395141601562 
+penalty construtiva = 2986 
+======================================== 
+instancia = 20 
+h = 0.8 
+id = 1 
+inicio = 31 
+len early candidates = 14 
+len late candidates = 6 
+time = 0.0017044544219970703 
+penalty construtiva = 2989 
+======================================== 
+instancia = 20 
+h = 0.8 
+id = 2 
+inicio = 76 
+len early candidates = 10 
+len late candidates = 10 
+time = 0.0006031990051269531 
+penalty construtiva = 3583 
+======================================== 
+instancia = 20 
+h = 0.8 
+id = 3 
+inicio = 32 
+len early candidates = 12 
+len late candidates = 8 
+time = 0.0016582012176513672 
+penalty construtiva = 3059 
+======================================== 
+instancia = 20 
+h = 0.8 
+id = 4 
+inicio = 53 
+len early candidates = 11 
+len late candidates = 9 
+time = 0.0019431114196777344 
+penalty construtiva = 2223 
+======================================== 
+instancia = 20 
+h = 0.8 
+id = 5 
+inicio = 56 
+len early candidates = 11 
+len late candidates = 9 
+time = 0.0025665760040283203 
+penalty construtiva = 3010 
+======================================== 
+instancia = 20 
+h = 0.8 
+id = 6 
+inicio = 32 
+len early candidates = 12 
+len late candidates = 8 
+time = 0.0020346641540527344 
+penalty construtiva = 3878 
+======================================== 
+instancia = 20 
+h = 0.8 
+id = 7 
+inicio = 53 
+len early candidates = 10 
+len late candidates = 10 
+time = 0.0012445449829101562 
+penalty construtiva = 1638 
+======================================== 
+instancia = 20 
+h = 0.8 
+id = 8 
+inicio = 41 
+len early candidates = 11 
+len late candidates = 9 
+time = 0.0019097328186035156 
+penalty construtiva = 1986 
+======================================== 
+instancia = 20 
+h = 0.8 
+id = 9 
+inicio = 32 
+len early candidates = 12 
+len late candidates = 8 
+time = 0.002123594284057617 
+penalty construtiva = 1995 
+======================================== 
+instancia = 50 
+h = 0.2 
+id = 0 
+inicio = 0 
+len early candidates = 15 
+len late candidates = 35 
+time = 0.0028913021087646484 
+penalty construtiva = 42001 
+======================================== 
+instancia = 50 
+h = 0.2 
+id = 1 
+inicio = 0 
+len early candidates = 10 
+len late candidates = 40 
+time = 0.003049135208129883 
+penalty construtiva = 33653 
+======================================== 
+instancia = 50 
+h = 0.2 
+id = 2 
+inicio = 0 
+len early candidates = 12 
+len late candidates = 38 
+time = 0.002410888671875 
+penalty construtiva = 38215 
+======================================== 
+instancia = 50 
+h = 0.2 
+id = 3 
+inicio = 0 
+len early candidates = 12 
+len late candidates = 38 
+time = 0.0022783279418945312 
+penalty construtiva = 29964 
+======================================== 
+instancia = 50 
+h = 0.2 
+id = 4 
+inicio = 0 
+len early candidates = 12 
+len late candidates = 38 
+time = 0.0024871826171875 
+penalty construtiva = 32616 
+======================================== 
+instancia = 50 
+h = 0.2 
+id = 5 
+inicio = 0 
+len early candidates = 10 
+len late candidates = 40 
+time = 0.002000093460083008 
+penalty construtiva = 39643 
+======================================== 
+instancia = 50 
+h = 0.2 
+id = 6 
+inicio = 0 
+len early candidates = 11 
+len late candidates = 39 
+time = 0.0018377304077148438 
+penalty construtiva = 44176 
+======================================== 
+instancia = 50 
+h = 0.2 
+id = 7 
+inicio = 0 
+len early candidates = 11 
+len late candidates = 39 
+time = 0.0021669864654541016 
+penalty construtiva = 45815 
+======================================== 
+instancia = 50 
+h = 0.2 
+id = 8 
+inicio = 0 
+len early candidates = 14 
+len late candidates = 36 
+time = 0.0020148754119873047 
+penalty construtiva = 37460 
+======================================== 
+instancia = 50 
+h = 0.2 
+id = 9 
+inicio = 0 
+len early candidates = 9 
+len late candidates = 41 
+time = 0.002226114273071289 
+penalty construtiva = 36290 
+======================================== 
+instancia = 50 
+h = 0.4 
+id = 0 
+inicio = 0 
+len early candidates = 19 
+len late candidates = 31 
+time = 0.0034236907958984375 
+penalty construtiva = 24868 
+======================================== 
+instancia = 50 
+h = 0.4 
+id = 1 
+inicio = 0 
+len early candidates = 22 
+len late candidates = 28 
+time = 0.0032150745391845703 
+penalty construtiva = 19389 
+======================================== 
+instancia = 50 
+h = 0.4 
+id = 2 
+inicio = 0 
+len early candidates = 21 
+len late candidates = 29 
+time = 0.002772808074951172 
+penalty construtiva = 21365 
+======================================== 
+instancia = 50 
+h = 0.4 
+id = 3 
+inicio = 0 
+len early candidates = 20 
+len late candidates = 30 
+time = 0.0035638809204101562 
+penalty construtiva = 17612 
+======================================== 
+instancia = 50 
+h = 0.4 
+id = 4 
+inicio = 0 
+len early candidates = 22 
+len late candidates = 28 
+time = 0.003365039825439453 
+penalty construtiva = 18962 
+======================================== 
+instancia = 50 
+h = 0.4 
+id = 5 
+inicio = 0 
+len early candidates = 16 
+len late candidates = 34 
+time = 0.003201723098754883 
+penalty construtiva = 24012 
+======================================== 
+instancia = 50 
+h = 0.4 
+id = 6 
+inicio = 0 
+len early candidates = 22 
+len late candidates = 28 
+time = 0.003935575485229492 
+penalty construtiva = 23756 
+======================================== 
+instancia = 50 
+h = 0.4 
+id = 7 
+inicio = 0 
+len early candidates = 21 
+len late candidates = 29 
+time = 0.0032701492309570312 
+penalty construtiva = 25711 
+======================================== 
+instancia = 50 
+h = 0.4 
+id = 8 
+inicio = 0 
+len early candidates = 21 
+len late candidates = 29 
+time = 0.002950429916381836 
+penalty construtiva = 22279 
+======================================== 
+instancia = 50 
+h = 0.4 
+id = 9 
+inicio = 0 
+len early candidates = 23 
+len late candidates = 27 
+time = 0.0024759769439697266 
+penalty construtiva = 19690 
+======================================== 
+instancia = 50 
+h = 0.6 
+id = 0 
+inicio = 6 
+len early candidates = 30 
+len late candidates = 20 
+time = 0.0036416053771972656 
+penalty construtiva = 17987 
+======================================== 
+instancia = 50 
+h = 0.6 
+id = 1 
+inicio = 10 
+len early candidates = 30 
+len late candidates = 20 
+time = 0.006124973297119141 
+penalty construtiva = 14214 
+======================================== 
+instancia = 50 
+h = 0.6 
+id = 2 
+inicio = 7 
+len early candidates = 28 
+len late candidates = 22 
+time = 0.0025339126586914062 
+penalty construtiva = 16497 
+======================================== 
+instancia = 50 
+h = 0.6 
+id = 3 
+inicio = 24 
+len early candidates = 28 
+len late candidates = 22 
+time = 0.009380102157592773 
+penalty construtiva = 14080 
+======================================== 
+instancia = 50 
+h = 0.6 
+id = 4 
+inicio = 17 
+len early candidates = 27 
+len late candidates = 23 
+time = 0.005834817886352539 
+penalty construtiva = 14656 
+======================================== 
+instancia = 50 
+h = 0.6 
+id = 5 
+inicio = 0 
+len early candidates = 27 
+len late candidates = 23 
+time = 0.0036046504974365234 
+penalty construtiva = 14721 
+======================================== 
+instancia = 50 
+h = 0.6 
+id = 6 
+inicio = 14 
+len early candidates = 29 
+len late candidates = 21 
+time = 0.0056231021881103516 
+penalty construtiva = 17684 
+======================================== 
+instancia = 50 
+h = 0.6 
+id = 7 
+inicio = 40 
+len early candidates = 28 
+len late candidates = 22 
+time = 0.011342287063598633 
+penalty construtiva = 21392 
+======================================== 
+instancia = 50 
+h = 0.6 
+id = 8 
+inicio = 2 
+len early candidates = 29 
+len late candidates = 21 
+time = 0.00496363639831543 
+penalty construtiva = 14345 
+======================================== 
+instancia = 50 
+h = 0.6 
+id = 9 
+inicio = 3 
+len early candidates = 29 
+len late candidates = 21 
+time = 0.004152059555053711 
+penalty construtiva = 14392 
+======================================== 
+instancia = 50 
+h = 0.8 
+id = 0 
+inicio = 102 
+len early candidates = 30 
+len late candidates = 20 
+time = 0.014026165008544922 
+penalty construtiva = 18021 
+======================================== 
+instancia = 50 
+h = 0.8 
+id = 1 
+inicio = 102 
+len early candidates = 30 
+len late candidates = 20 
+time = 0.009197711944580078 
+penalty construtiva = 14053 
+======================================== 
+instancia = 50 
+h = 0.8 
+id = 2 
+inicio = 108 
+len early candidates = 28 
+len late candidates = 22 
+time = 0.010308504104614258 
+penalty construtiva = 16630 
+======================================== 
+instancia = 50 
+h = 0.8 
+id = 3 
+inicio = 117 
+len early candidates = 27 
+len late candidates = 23 
+time = 0.013492345809936523 
+penalty construtiva = 14113 
+======================================== 
+instancia = 50 
+h = 0.8 
+id = 4 
+inicio = 122 
+len early candidates = 27 
+len late candidates = 23 
+time = 0.008458614349365234 
+penalty construtiva = 14612 
+======================================== 
+instancia = 50 
+h = 0.8 
+id = 5 
+inicio = 84 
+len early candidates = 28 
+len late candidates = 22 
+time = 0.010417461395263672 
+penalty construtiva = 14129 
+======================================== 
+instancia = 50 
+h = 0.8 
+id = 6 
+inicio = 118 
+len early candidates = 29 
+len late candidates = 21 
+time = 0.015195369720458984 
+penalty construtiva = 17629 
+======================================== 
+instancia = 50 
+h = 0.8 
+id = 7 
+inicio = 170 
+len early candidates = 28 
+len late candidates = 22 
+time = 0.014312982559204102 
+penalty construtiva = 21335 
+======================================== 
+instancia = 50 
+h = 0.8 
+id = 8 
+inicio = 74 
+len early candidates = 28 
+len late candidates = 22 
+time = 0.013141870498657227 
+penalty construtiva = 13981 
+======================================== 
+instancia = 50 
+h = 0.8 
+id = 9 
+inicio = 99 
+len early candidates = 29 
+len late candidates = 21 
+time = 0.011318445205688477 
+penalty construtiva = 14368 
+======================================== 
+instancia = 100 
+h = 0.2 
+id = 0 
+inicio = 0 
+len early candidates = 23 
+len late candidates = 77 
+time = 0.00564885139465332 
+penalty construtiva = 156467 
+======================================== 
+instancia = 100 
+h = 0.2 
+id = 1 
+inicio = 0 
+len early candidates = 20 
+len late candidates = 80 
+time = 0.003597259521484375 
+penalty construtiva = 132605 
+======================================== 
+instancia = 100 
+h = 0.2 
+id = 2 
+inicio = 0 
+len early candidates = 27 
+len late candidates = 73 
+time = 0.00678563117980957 
+penalty construtiva = 137347 
+======================================== 
+instancia = 100 
+h = 0.2 
+id = 3 
+inicio = 0 
+len early candidates = 24 
+len late candidates = 76 
+time = 0.006102323532104492 
+penalty construtiva = 136828 
+======================================== 
+instancia = 100 
+h = 0.2 
+id = 4 
+inicio = 0 
+len early candidates = 21 
+len late candidates = 79 
+time = 0.006597757339477539 
+penalty construtiva = 137943 
+======================================== 
+instancia = 100 
+h = 0.2 
+id = 5 
+inicio = 0 
+len early candidates = 25 
+len late candidates = 75 
+time = 0.006401777267456055 
+penalty construtiva = 156552 
+======================================== 
+instancia = 100 
+h = 0.2 
+id = 6 
+inicio = 0 
+len early candidates = 21 
+len late candidates = 79 
+time = 0.00763392448425293 
+penalty construtiva = 141613 
+======================================== 
+instancia = 100 
+h = 0.2 
+id = 7 
+inicio = 0 
+len early candidates = 21 
+len late candidates = 79 
+time = 0.005530357360839844 
+penalty construtiva = 168881 
+======================================== 
+instancia = 100 
+h = 0.2 
+id = 8 
+inicio = 0 
+len early candidates = 24 
+len late candidates = 76 
+time = 0.0061321258544921875 
+penalty construtiva = 125153 
+======================================== 
+instancia = 100 
+h = 0.2 
+id = 9 
+inicio = 0 
+len early candidates = 21 
+len late candidates = 79 
+time = 0.005454301834106445 
+penalty construtiva = 124445 
+======================================== 
+instancia = 100 
+h = 0.4 
+id = 0 
+inicio = 0 
+len early candidates = 42 
+len late candidates = 58 
+time = 0.009346723556518555 
+penalty construtiva = 89610 
+======================================== 
+instancia = 100 
+h = 0.4 
+id = 1 
+inicio = 0 
+len early candidates = 40 
+len late candidates = 60 
+time = 0.008703231811523438 
+penalty construtiva = 75717 
+======================================== 
+instancia = 100 
+h = 0.4 
+id = 2 
+inicio = 0 
+len early candidates = 46 
+len late candidates = 54 
+time = 0.00905466079711914 
+penalty construtiva = 85550 
+======================================== 
+instancia = 100 
+h = 0.4 
+id = 3 
+inicio = 0 
+len early candidates = 42 
+len late candidates = 58 
+time = 0.009172677993774414 
+penalty construtiva = 87867 
+======================================== 
+instancia = 100 
+h = 0.4 
+id = 4 
+inicio = 0 
+len early candidates = 48 
+len late candidates = 52 
+time = 0.009434700012207031 
+penalty construtiva = 74556 
+======================================== 
+instancia = 100 
+h = 0.4 
+id = 5 
+inicio = 0 
+len early candidates = 36 
+len late candidates = 64 
+time = 0.00555419921875 
+penalty construtiva = 87080 
+======================================== 
+instancia = 100 
+h = 0.4 
+id = 6 
+inicio = 0 
+len early candidates = 43 
+len late candidates = 57 
+time = 0.00937032699584961 
+penalty construtiva = 80509 
+======================================== 
+instancia = 100 
+h = 0.4 
+id = 7 
+inicio = 0 
+len early candidates = 40 
+len late candidates = 60 
+time = 0.008430719375610352 
+penalty construtiva = 95420 
+======================================== 
+instancia = 100 
+h = 0.4 
+id = 8 
+inicio = 0 
+len early candidates = 46 
+len late candidates = 54 
+time = 0.009146690368652344 
+penalty construtiva = 73432 
+======================================== 
+instancia = 100 
+h = 0.4 
+id = 9 
+inicio = 0 
+len early candidates = 41 
+len late candidates = 59 
+time = 0.011147022247314453 
+penalty construtiva = 74020 
+======================================== 
+instancia = 100 
+h = 0.6 
+id = 0 
+inicio = 62 
+len early candidates = 53 
+len late candidates = 47 
+time = 0.04653215408325195 
+penalty construtiva = 72068 
+======================================== 
+instancia = 100 
+h = 0.6 
+id = 1 
+inicio = 46 
+len early candidates = 54 
+len late candidates = 46 
+time = 0.06178927421569824 
+penalty construtiva = 59230 
+======================================== 
+instancia = 100 
+h = 0.6 
+id = 2 
+inicio = 48 
+len early candidates = 56 
+len late candidates = 44 
+time = 0.05571246147155762 
+penalty construtiva = 68538 
+======================================== 
+instancia = 100 
+h = 0.6 
+id = 3 
+inicio = 28 
+len early candidates = 55 
+len late candidates = 45 
+time = 0.06059145927429199 
+penalty construtiva = 68805 
+======================================== 
+instancia = 100 
+h = 0.6 
+id = 4 
+inicio = 1 
+len early candidates = 60 
+len late candidates = 40 
+time = 0.012818336486816406 
+penalty construtiva = 55289 
+======================================== 
+instancia = 100 
+h = 0.6 
+id = 5 
+inicio = 10 
+len early candidates = 60 
+len late candidates = 40 
+time = 0.019540071487426758 
+penalty construtiva = 62470 
+======================================== 
+instancia = 100 
+h = 0.6 
+id = 6 
+inicio = 2 
+len early candidates = 58 
+len late candidates = 42 
+time = 0.015989065170288086 
+penalty construtiva = 62197 
+======================================== 
+instancia = 100 
+h = 0.6 
+id = 7 
+inicio = 81 
+len early candidates = 50 
+len late candidates = 50 
+time = 0.08039307594299316 
+penalty construtiva = 80722 
+======================================== 
+instancia = 100 
+h = 0.6 
+id = 8 
+inicio = 38 
+len early candidates = 57 
+len late candidates = 43 
+time = 0.04129433631896973 
+penalty construtiva = 58800 
+======================================== 
+instancia = 100 
+h = 0.6 
+id = 9 
+inicio = 63 
+len early candidates = 54 
+len late candidates = 46 
+time = 0.0461885929107666 
+penalty construtiva = 61410 
+======================================== 
+instancia = 100 
+h = 0.8 
+id = 0 
+inicio = 285 
+len early candidates = 54 
+len late candidates = 46 
+time = 0.08250236511230469 
+penalty construtiva = 72066 
+======================================== 
+instancia = 100 
+h = 0.8 
+id = 1 
+inicio = 262 
+len early candidates = 54 
+len late candidates = 46 
+time = 0.07151937484741211 
+penalty construtiva = 59230 
+======================================== 
+instancia = 100 
+h = 0.8 
+id = 2 
+inicio = 263 
+len early candidates = 56 
+len late candidates = 44 
+time = 0.056774139404296875 
+penalty construtiva = 68538 
+======================================== 
+instancia = 100 
+h = 0.8 
+id = 3 
+inicio = 236 
+len early candidates = 55 
+len late candidates = 45 
+time = 0.15173816680908203 
+penalty construtiva = 68806 
+======================================== 
+instancia = 100 
+h = 0.8 
+id = 4 
+inicio = 195 
+len early candidates = 60 
+len late candidates = 40 
+time = 0.07555556297302246 
+penalty construtiva = 55103 
+======================================== 
+instancia = 100 
+h = 0.8 
+id = 5 
+inicio = 224 
+len early candidates = 59 
+len late candidates = 41 
+time = 0.07044219970703125 
+penalty construtiva = 62438 
+======================================== 
+instancia = 100 
+h = 0.8 
+id = 6 
+inicio = 210 
+len early candidates = 58 
+len late candidates = 42 
+time = 0.08961224555969238 
+penalty construtiva = 62206 
+======================================== 
+instancia = 100 
+h = 0.8 
+id = 7 
+inicio = 318 
+len early candidates = 50 
+len late candidates = 50 
+time = 0.06567239761352539 
+penalty construtiva = 80722 
+======================================== 
+instancia = 100 
+h = 0.8 
+id = 8 
+inicio = 257 
+len early candidates = 58 
+len late candidates = 42 
+time = 0.08281159400939941 
+penalty construtiva = 58731 
+======================================== 
+instancia = 100 
+h = 0.8 
+id = 9 
+inicio = 276 
+len early candidates = 54 
+len late candidates = 46 
+time = 0.037445783615112305 
+penalty construtiva = 61410 
+======================================== 
+instancia = 200 
+h = 0.2 
+id = 0 
+inicio = 0 
+len early candidates = 50 
+len late candidates = 150 
+time = 0.022103309631347656 
+penalty construtiva = 526776 
+======================================== 
+instancia = 200 
+h = 0.2 
+id = 1 
+inicio = 0 
+len early candidates = 44 
+len late candidates = 156 
+time = 0.020895957946777344 
+penalty construtiva = 587233 
+======================================== 
+instancia = 200 
+h = 0.2 
+id = 2 
+inicio = 0 
+len early candidates = 43 
+len late candidates = 157 
+time = 0.026151657104492188 
+penalty construtiva = 530145 
+======================================== 
+instancia = 200 
+h = 0.2 
+id = 3 
+inicio = 0 
+len early candidates = 50 
+len late candidates = 150 
+time = 0.020653724670410156 
+penalty construtiva = 603566 
+======================================== 
+instancia = 200 
+h = 0.2 
+id = 4 
+inicio = 0 
+len early candidates = 39 
+len late candidates = 161 
+time = 0.020221948623657227 
+penalty construtiva = 551124 
+======================================== 
+instancia = 200 
+h = 0.2 
+id = 5 
+inicio = 0 
+len early candidates = 42 
+len late candidates = 158 
+time = 0.013213872909545898 
+penalty construtiva = 502276 
+======================================== 
+instancia = 200 
+h = 0.2 
+id = 6 
+inicio = 0 
+len early candidates = 46 
+len late candidates = 154 
+time = 0.021244287490844727 
+penalty construtiva = 485371 
+======================================== 
+instancia = 200 
+h = 0.2 
+id = 7 
+inicio = 0 
+len early candidates = 45 
+len late candidates = 155 
+time = 0.020861148834228516 
+penalty construtiva = 533137 
+======================================== 
+instancia = 200 
+h = 0.2 
+id = 8 
+inicio = 0 
+len early candidates = 41 
+len late candidates = 159 
+time = 0.020860671997070312 
+penalty construtiva = 585627 
+======================================== 
+instancia = 200 
+h = 0.2 
+id = 9 
+inicio = 0 
+len early candidates = 46 
+len late candidates = 154 
+time = 0.021299362182617188 
+penalty construtiva = 572795 
+======================================== 
+instancia = 200 
+h = 0.4 
+id = 0 
+inicio = 0 
+len early candidates = 91 
+len late candidates = 109 
+time = 0.03322196006774902 
+penalty construtiva = 301673 
+======================================== 
+instancia = 200 
+h = 0.4 
+id = 1 
+inicio = 0 
+len early candidates = 87 
+len late candidates = 113 
+time = 0.04041266441345215 
+penalty construtiva = 338199 
+======================================== 
+instancia = 200 
+h = 0.4 
+id = 2 
+inicio = 0 
+len early candidates = 83 
+len late candidates = 117 
+time = 0.037836313247680664 
+penalty construtiva = 308280 
+======================================== 
+instancia = 200 
+h = 0.4 
+id = 3 
+inicio = 0 
+len early candidates = 85 
+len late candidates = 115 
+time = 0.021314382553100586 
+penalty construtiva = 360852 
+======================================== 
+instancia = 200 
+h = 0.4 
+id = 4 
+inicio = 0 
+len early candidates = 72 
+len late candidates = 128 
+time = 0.044977664947509766 
+penalty construtiva = 322268 
+======================================== 
+instancia = 200 
+h = 0.4 
+id = 5 
+inicio = 0 
+len early candidates = 86 
+len late candidates = 114 
+time = 0.059760332107543945 
+penalty construtiva = 292458 
+======================================== 
+instancia = 200 
+h = 0.4 
+id = 6 
+inicio = 0 
+len early candidates = 82 
+len late candidates = 118 
+time = 0.022744178771972656 
+penalty construtiva = 283557 
+======================================== 
+instancia = 200 
+h = 0.4 
+id = 7 
+inicio = 0 
+len early candidates = 83 
+len late candidates = 117 
+time = 0.0327303409576416 
+penalty construtiva = 294042 
+======================================== 
+instancia = 200 
+h = 0.4 
+id = 8 
+inicio = 0 
+len early candidates = 79 
+len late candidates = 121 
+time = 0.03916215896606445 
+penalty construtiva = 331116 
+======================================== 
+instancia = 200 
+h = 0.4 
+id = 9 
+inicio = 0 
+len early candidates = 86 
+len late candidates = 114 
+time = 0.03360342979431152 
+penalty construtiva = 333505 
+======================================== 
+instancia = 200 
+h = 0.6 
+id = 0 
+inicio = 129 
+len early candidates = 110 
+len late candidates = 90 
+time = 0.3752167224884033 
+penalty construtiva = 254295 
+======================================== 
+instancia = 200 
+h = 0.6 
+id = 1 
+inicio = 75 
+len early candidates = 114 
+len late candidates = 86 
+time = 0.4331173896789551 
+penalty construtiva = 266023 
+======================================== 
+instancia = 200 
+h = 0.6 
+id = 2 
+inicio = 50 
+len early candidates = 113 
+len late candidates = 87 
+time = 0.22753357887268066 
+penalty construtiva = 254479 
+======================================== 
+instancia = 200 
+h = 0.6 
+id = 3 
+inicio = 40 
+len early candidates = 113 
+len late candidates = 87 
+time = 0.1823117733001709 
+penalty construtiva = 297113 
+======================================== 
+instancia = 200 
+h = 0.6 
+id = 4 
+inicio = 117 
+len early candidates = 105 
+len late candidates = 95 
+time = 0.7369687557220459 
+penalty construtiva = 260348 
+======================================== 
+instancia = 200 
+h = 0.6 
+id = 5 
+inicio = 102 
+len early candidates = 111 
+len late candidates = 89 
+time = 0.4483060836791992 
+penalty construtiva = 235756 
+======================================== 
+instancia = 200 
+h = 0.6 
+id = 6 
+inicio = 146 
+len early candidates = 109 
+len late candidates = 91 
+time = 0.7327766418457031 
+penalty construtiva = 246377 
+======================================== 
+instancia = 200 
+h = 0.6 
+id = 7 
+inicio = 67 
+len early candidates = 110 
+len late candidates = 90 
+time = 0.29123663902282715 
+penalty construtiva = 225221 
+======================================== 
+instancia = 200 
+h = 0.6 
+id = 8 
+inicio = 55 
+len early candidates = 110 
+len late candidates = 90 
+time = 0.2159421443939209 
+penalty construtiva = 254705 
+======================================== 
+instancia = 200 
+h = 0.6 
+id = 9 
+inicio = 27 
+len early candidates = 117 
+len late candidates = 83 
+time = 0.3261561393737793 
+penalty construtiva = 268371 
+======================================== 
+instancia = 200 
+h = 0.8 
+id = 0 
+inicio = 555 
+len early candidates = 110 
+len late candidates = 90 
+time = 0.5312232971191406 
+penalty construtiva = 254295 
+======================================== 
+instancia = 200 
+h = 0.8 
+id = 1 
+inicio = 501 
+len early candidates = 114 
+len late candidates = 86 
+time = 0.7397100925445557 
+penalty construtiva = 266023 
+======================================== 
+instancia = 200 
+h = 0.8 
+id = 2 
+inicio = 453 
+len early candidates = 113 
+len late candidates = 87 
+time = 0.6860113143920898 
+penalty construtiva = 254487 
+======================================== 
+instancia = 200 
+h = 0.8 
+id = 3 
+inicio = 470 
+len early candidates = 113 
+len late candidates = 87 
+time = 0.4909555912017822 
+penalty construtiva = 297159 
+======================================== 
+instancia = 200 
+h = 0.8 
+id = 4 
+inicio = 551 
+len early candidates = 105 
+len late candidates = 95 
+time = 0.427492618560791 
+penalty construtiva = 260348 
+======================================== 
+instancia = 200 
+h = 0.8 
+id = 5 
+inicio = 518 
+len early candidates = 110 
+len late candidates = 90 
+time = 0.736363410949707 
+penalty construtiva = 235784 
+======================================== 
+instancia = 200 
+h = 0.8 
+id = 6 
+inicio = 558 
+len early candidates = 109 
+len late candidates = 91 
+time = 0.6859948635101318 
+penalty construtiva = 246377 
+======================================== 
+instancia = 200 
+h = 0.8 
+id = 7 
+inicio = 487 
+len early candidates = 111 
+len late candidates = 89 
+time = 0.5996134281158447 
+penalty construtiva = 225245 
+======================================== 
+instancia = 200 
+h = 0.8 
+id = 8 
+inicio = 472 
+len early candidates = 110 
+len late candidates = 90 
+time = 0.7234835624694824 
+penalty construtiva = 254662 
+======================================== 
+instancia = 200 
+h = 0.8 
+id = 9 
+inicio = 452 
+len early candidates = 117 
+len late candidates = 83 
+time = 0.9323952198028564 
+penalty construtiva = 268372 
+======================================== 
+instancia = 500 
+h = 0.2 
+id = 0 
+inicio = 0 
+len early candidates = 107 
+len late candidates = 393 
+time = 0.12172460556030273 
+penalty construtiva = 3125363 
+======================================== 
+instancia = 500 
+h = 0.2 
+id = 1 
+inicio = 0 
+len early candidates = 102 
+len late candidates = 398 
+time = 0.1153721809387207 
+penalty construtiva = 3573154 
+======================================== 
+instancia = 500 
+h = 0.2 
+id = 2 
+inicio = 0 
+len early candidates = 108 
+len late candidates = 392 
+time = 0.10486984252929688 
+penalty construtiva = 3298969 
+======================================== 
+instancia = 500 
+h = 0.2 
+id = 3 
+inicio = 0 
+len early candidates = 102 
+len late candidates = 398 
+time = 0.12553143501281738 
+penalty construtiva = 3408727 
+======================================== 
+instancia = 500 
+h = 0.2 
+id = 4 
+inicio = 0 
+len early candidates = 95 
+len late candidates = 405 
+time = 0.09739446640014648 
+penalty construtiva = 3404047 
+======================================== 
+instancia = 500 
+h = 0.2 
+id = 5 
+inicio = 0 
+len early candidates = 90 
+len late candidates = 410 
+time = 0.08385014533996582 
+penalty construtiva = 3030468 
+======================================== 
+instancia = 500 
+h = 0.2 
+id = 6 
+inicio = 0 
+len early candidates = 109 
+len late candidates = 391 
+time = 0.13051867485046387 
+penalty construtiva = 3386090 
+======================================== 
+instancia = 500 
+h = 0.2 
+id = 7 
+inicio = 0 
+len early candidates = 103 
+len late candidates = 397 
+time = 0.1305990219116211 
+penalty construtiva = 3376631 
+======================================== 
+instancia = 500 
+h = 0.2 
+id = 8 
+inicio = 0 
+len early candidates = 96 
+len late candidates = 404 
+time = 0.09668445587158203 
+penalty construtiva = 3617739 
+======================================== 
+instancia = 500 
+h = 0.2 
+id = 9 
+inicio = 0 
+len early candidates = 112 
+len late candidates = 388 
+time = 0.14438986778259277 
+penalty construtiva = 3317325 
+======================================== 
+instancia = 500 
+h = 0.4 
+id = 0 
+inicio = 0 
+len early candidates = 220 
+len late candidates = 280 
+time = 0.18697714805603027 
+penalty construtiva = 1839968 
+======================================== 
+instancia = 500 
+h = 0.4 
+id = 1 
+inicio = 0 
+len early candidates = 198 
+len late candidates = 302 
+time = 0.2524855136871338 
+penalty construtiva = 2064998 
+======================================== 
+instancia = 500 
+h = 0.4 
+id = 2 
+inicio = 0 
+len early candidates = 208 
+len late candidates = 292 
+time = 0.18505501747131348 
+penalty construtiva = 1914656 
+======================================== 
+instancia = 500 
+h = 0.4 
+id = 3 
+inicio = 0 
+len early candidates = 207 
+len late candidates = 293 
+time = 0.17201876640319824 
+penalty construtiva = 1932379 
+======================================== 
+instancia = 500 
+h = 0.4 
+id = 4 
+inicio = 0 
+len early candidates = 197 
+len late candidates = 303 
+time = 0.1642756462097168 
+penalty construtiva = 1907428 
+======================================== 
+instancia = 500 
+h = 0.4 
+id = 5 
+inicio = 0 
+len early candidates = 192 
+len late candidates = 308 
+time = 0.08144330978393555 
+penalty construtiva = 1661437 
+======================================== 
+instancia = 500 
+h = 0.4 
+id = 6 
+inicio = 0 
+len early candidates = 202 
+len late candidates = 298 
+time = 0.09153223037719727 
+penalty construtiva = 1971221 
+======================================== 
+instancia = 500 
+h = 0.4 
+id = 7 
+inicio = 0 
+len early candidates = 205 
+len late candidates = 295 
+time = 0.20068645477294922 
+penalty construtiva = 1931709 
+======================================== 
+instancia = 500 
+h = 0.4 
+id = 8 
+inicio = 0 
+len early candidates = 203 
+len late candidates = 297 
+time = 0.18458962440490723 
+penalty construtiva = 2065483 
+======================================== 
+instancia = 500 
+h = 0.4 
+id = 9 
+inicio = 0 
+len early candidates = 198 
+len late candidates = 302 
+time = 0.13617658615112305 
+penalty construtiva = 1940406 
+======================================== 
+instancia = 500 
+h = 0.6 
+id = 0 
+inicio = 329 
+len early candidates = 271 
+len late candidates = 229 
+time = 5.799838304519653 
+penalty construtiva = 1579116 
+======================================== 
+instancia = 500 
+h = 0.6 
+id = 1 
+inicio = 291 
+len early candidates = 270 
+len late candidates = 230 
+time = 6.404922246932983 
+penalty construtiva = 1712230 
+======================================== 
+instancia = 500 
+h = 0.6 
+id = 2 
+inicio = 342 
+len early candidates = 266 
+len late candidates = 234 
+time = 6.695565462112427 
+penalty construtiva = 1641455 
+======================================== 
+instancia = 500 
+h = 0.6 
+id = 3 
+inicio = 357 
+len early candidates = 267 
+len late candidates = 233 
+time = 5.54514217376709 
+penalty construtiva = 1640869 
+======================================== 
+instancia = 500 
+h = 0.6 
+id = 4 
+inicio = 150 
+len early candidates = 279 
+len late candidates = 221 
+time = 2.2162129878997803 
+penalty construtiva = 1468241 
+======================================== 
+instancia = 500 
+h = 0.6 
+id = 5 
+inicio = 353 
+len early candidates = 259 
+len late candidates = 241 
+time = 7.491368293762207 
+penalty construtiva = 1411889 
+======================================== 
+instancia = 500 
+h = 0.6 
+id = 6 
+inicio = 285 
+len early candidates = 270 
+len late candidates = 230 
+time = 7.421542406082153 
+penalty construtiva = 1634343 
+======================================== 
+instancia = 500 
+h = 0.6 
+id = 7 
+inicio = 260 
+len early candidates = 279 
+len late candidates = 221 
+time = 6.136204481124878 
+penalty construtiva = 1540391 
+======================================== 
+instancia = 500 
+h = 0.6 
+id = 8 
+inicio = 252 
+len early candidates = 274 
+len late candidates = 226 
+time = 8.477240085601807 
+penalty construtiva = 1680188 
+======================================== 
+instancia = 500 
+h = 0.6 
+id = 9 
+inicio = 146 
+len early candidates = 274 
+len late candidates = 226 
+time = 4.452714204788208 
+penalty construtiva = 1519220 
+======================================== 
+instancia = 500 
+h = 0.8 
+id = 0 
+inicio = 1369 
+len early candidates = 272 
+len late candidates = 228 
+time = 9.165307521820068 
+penalty construtiva = 1579105 
+======================================== 
+instancia = 500 
+h = 0.8 
+id = 1 
+inicio = 1376 
+len early candidates = 270 
+len late candidates = 230 
+time = 12.29366660118103 
+penalty construtiva = 1712238 
+======================================== 
+instancia = 500 
+h = 0.8 
+id = 2 
+inicio = 1398 
+len early candidates = 265 
+len late candidates = 235 
+time = 11.517181634902954 
+penalty construtiva = 1641440 
+======================================== 
+instancia = 500 
+h = 0.8 
+id = 3 
+inicio = 1450 
+len early candidates = 266 
+len late candidates = 234 
+time = 8.60771107673645 
+penalty construtiva = 1640803 
+======================================== 
+instancia = 500 
+h = 0.8 
+id = 4 
+inicio = 1172 
+len early candidates = 279 
+len late candidates = 221 
+time = 10.084877014160156 
+penalty construtiva = 1468289 
+======================================== 
+instancia = 500 
+h = 0.8 
+id = 5 
+inicio = 1380 
+len early candidates = 259 
+len late candidates = 241 
+time = 7.720179319381714 
+penalty construtiva = 1411889 
+======================================== 
+instancia = 500 
+h = 0.8 
+id = 6 
+inicio = 1354 
+len early candidates = 270 
+len late candidates = 230 
+time = 10.793374061584473 
+penalty construtiva = 1634343 
+======================================== 
+instancia = 500 
+h = 0.8 
+id = 7 
+inicio = 1327 
+len early candidates = 279 
+len late candidates = 221 
+time = 13.841708660125732 
+penalty construtiva = 1540390 
+======================================== 
+instancia = 500 
+h = 0.8 
+id = 8 
+inicio = 1334 
+len early candidates = 274 
+len late candidates = 226 
+time = 10.519700527191162 
+penalty construtiva = 1680188 
+======================================== 
+instancia = 500 
+h = 0.8 
+id = 9 
+inicio = 1203 
+len early candidates = 275 
+len late candidates = 225 
+time = 15.067553043365479 
+penalty construtiva = 1519218 
+======================================== 
+instancia = 1000 
+h = 0.2 
+id = 0 
+inicio = 0 
+len early candidates = 202 
+len late candidates = 798 
+time = 0.5286784172058105 
+penalty construtiva = 15201093 
+======================================== 
+instancia = 1000 
+h = 0.2 
+id = 1 
+inicio = 0 
+len early candidates = 216 
+len late candidates = 784 
+time = 0.5621273517608643 
+penalty construtiva = 13319784 
+======================================== 
+instancia = 1000 
+h = 0.2 
+id = 2 
+inicio = 0 
+len early candidates = 193 
+len late candidates = 807 
+time = 0.6111211776733398 
+penalty construtiva = 12928577 
+======================================== 
+instancia = 1000 
+h = 0.2 
+id = 3 
+inicio = 0 
+len early candidates = 206 
+len late candidates = 794 
+time = 0.5852069854736328 
+penalty construtiva = 12721730 
+======================================== 
+instancia = 1000 
+h = 0.2 
+id = 4 
+inicio = 0 
+len early candidates = 210 
+len late candidates = 790 
+time = 0.6670224666595459 
+penalty construtiva = 13485154 
+======================================== 
+instancia = 1000 
+h = 0.2 
+id = 5 
+inicio = 0 
+len early candidates = 213 
+len late candidates = 787 
+time = 0.6127262115478516 
+penalty construtiva = 12314043 
+======================================== 
+instancia = 1000 
+h = 0.2 
+id = 6 
+inicio = 0 
+len early candidates = 199 
+len late candidates = 801 
+time = 0.5087084770202637 
+penalty construtiva = 14158908 
+======================================== 
+instancia = 1000 
+h = 0.2 
+id = 7 
+inicio = 0 
+len early candidates = 199 
+len late candidates = 801 
+time = 0.5684492588043213 
+penalty construtiva = 13347600 
+======================================== 
+instancia = 1000 
+h = 0.2 
+id = 8 
+inicio = 0 
+len early candidates = 225 
+len late candidates = 775 
+time = 0.5253865718841553 
+penalty construtiva = 12590429 
+======================================== 
+instancia = 1000 
+h = 0.2 
+id = 9 
+inicio = 0 
+len early candidates = 203 
+len late candidates = 797 
+time = 0.4869720935821533 
+penalty construtiva = 13394535 
+======================================== 
+instancia = 1000 
+h = 0.4 
+id = 0 
+inicio = 0 
+len early candidates = 387 
+len late candidates = 613 
+time = 0.5296218395233154 
+penalty construtiva = 8700600 
+======================================== 
+instancia = 1000 
+h = 0.4 
+id = 1 
+inicio = 0 
+len early candidates = 399 
+len late candidates = 601 
+time = 1.031639814376831 
+penalty construtiva = 7595603 
+======================================== 
+instancia = 1000 
+h = 0.4 
+id = 2 
+inicio = 0 
+len early candidates = 409 
+len late candidates = 591 
+time = 0.9159467220306396 
+penalty construtiva = 7319520 
+======================================== 
+instancia = 1000 
+h = 0.4 
+id = 3 
+inicio = 0 
+len early candidates = 411 
+len late candidates = 589 
+time = 0.8665428161621094 
+penalty construtiva = 7309397 
+======================================== 
+instancia = 1000 
+h = 0.4 
+id = 4 
+inicio = 0 
+len early candidates = 409 
+len late candidates = 591 
+time = 0.8642377853393555 
+penalty construtiva = 7746504 
+======================================== 
+instancia = 1000 
+h = 0.4 
+id = 5 
+inicio = 0 
+len early candidates = 406 
+len late candidates = 594 
+time = 0.9659018516540527 
+penalty construtiva = 7151302 
+======================================== 
+instancia = 1000 
+h = 0.4 
+id = 6 
+inicio = 0 
+len early candidates = 394 
+len late candidates = 606 
+time = 0.8696489334106445 
+penalty construtiva = 8460051 
+======================================== 
+instancia = 1000 
+h = 0.4 
+id = 7 
+inicio = 0 
+len early candidates = 404 
+len late candidates = 596 
+time = 0.9633960723876953 
+penalty construtiva = 7510864 
+======================================== 
+instancia = 1000 
+h = 0.4 
+id = 8 
+inicio = 0 
+len early candidates = 419 
+len late candidates = 581 
+time = 0.853642463684082 
+penalty construtiva = 7316312 
+======================================== 
+instancia = 1000 
+h = 0.4 
+id = 9 
+inicio = 0 
+len early candidates = 398 
+len late candidates = 602 
+time = 1.0233712196350098 
+penalty construtiva = 7618471 
+======================================== 
+instancia = 1000 
+h = 0.6 
+id = 0 
+inicio = 136 
+len early candidates = 570 
+len late candidates = 430 
+time = 10.784115314483643 
+penalty construtiva = 6410896 
+======================================== 
+instancia = 1000 
+h = 0.6 
+id = 1 
+inicio = 343 
+len early candidates = 553 
+len late candidates = 447 
+time = 32.02916860580444 
+penalty construtiva = 6110101 
+======================================== 
+instancia = 1000 
+h = 0.6 
+id = 2 
+inicio = 481 
+len early candidates = 548 
+len late candidates = 452 
+time = 53.54977083206177 
+penalty construtiva = 5983321 
+======================================== 
+instancia = 1000 
+h = 0.6 
+id = 3 
+inicio = 556 
+len early candidates = 542 
+len late candidates = 458 
+time = 47.19803547859192 
+penalty construtiva = 6085898 
+======================================== 
+instancia = 1000 
+h = 0.6 
+id = 4 
+inicio = 542 
+len early candidates = 548 
+len late candidates = 452 
+time = 52.92606592178345 
+penalty construtiva = 6341501 
+======================================== 
+instancia = 1000 
+h = 0.6 
+id = 5 
+inicio = 624 
+len early candidates = 537 
+len late candidates = 463 
+time = 54.514705657958984 
+penalty construtiva = 6078401 
+======================================== 
+instancia = 1000 
+h = 0.6 
+id = 6 
+inicio = 298 
+len early candidates = 561 
+len late candidates = 439 
+time = 20.120190382003784 
+penalty construtiva = 6574338 
+======================================== 
+instancia = 1000 
+h = 0.6 
+id = 7 
+inicio = 431 
+len early candidates = 555 
+len late candidates = 445 
+time = 33.848180532455444 
+penalty construtiva = 6067316 
+======================================== 
+instancia = 1000 
+h = 0.6 
+id = 8 
+inicio = 528 
+len early candidates = 547 
+len late candidates = 453 
+time = 32.271262884140015 
+penalty construtiva = 6185399 
+======================================== 
+instancia = 1000 
+h = 0.6 
+id = 9 
+inicio = 490 
+len early candidates = 546 
+len late candidates = 454 
+time = 37.332157373428345 
+penalty construtiva = 6145771 
+======================================== 
+instancia = 1000 
+h = 0.8 
+id = 0 
+inicio = 2257 
+len early candidates = 570 
+len late candidates = 430 
+time = 71.31907105445862 
+penalty construtiva = 6410901 
+======================================== 
+instancia = 1000 
+h = 0.8 
+id = 1 
+inicio = 2393 
+len early candidates = 554 
+len late candidates = 446 
+time = 60.83301544189453 
+penalty construtiva = 6110166 
+======================================== 
+instancia = 1000 
+h = 0.8 
+id = 2 
+inicio = 2575 
+len early candidates = 548 
+len late candidates = 452 
+time = 62.66962933540344 
+penalty construtiva = 5983316 
+======================================== 
+instancia = 1000 
+h = 0.8 
+id = 3 
+inicio = 2615 
+len early candidates = 542 
+len late candidates = 458 
+time = 66.20631623268127 
+penalty construtiva = 6085907 
+======================================== 
+instancia = 1000 
+h = 0.8 
+id = 4 
+inicio = 2679 
+len early candidates = 548 
+len late candidates = 452 
+time = 67.31192636489868 
+penalty construtiva = 6341507 
+======================================== 
+instancia = 1000 
+h = 0.8 
+id = 5 
+inicio = 2737 
+len early candidates = 538 
+len late candidates = 462 
+time = 54.41413402557373 
+penalty construtiva = 6078426 
+======================================== 
+instancia = 1000 
+h = 0.8 
+id = 6 
+inicio = 2410 
+len early candidates = 561 
+len late candidates = 439 
+time = 76.94030570983887 
+penalty construtiva = 6574306 
+======================================== 
+instancia = 1000 
+h = 0.8 
+id = 7 
+inicio = 2501 
+len early candidates = 555 
+len late candidates = 445 
+time = 70.1234028339386 
+penalty construtiva = 6067313 
+======================================== 
+instancia = 1000 
+h = 0.8 
+id = 8 
+inicio = 2599 
+len early candidates = 548 
+len late candidates = 452 
+time = 54.89200520515442 
+penalty construtiva = 6185352 
+======================================== 
+instancia = 1000 
+h = 0.8 
+id = 9 
+inicio = 2605 
+len early candidates = 546 
+len late candidates = 454 
+time = 53.43564581871033 
+penalty construtiva = 6145756 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 0 
+inicio = 4 
+len early candidates = 3 
+len late candidates = 7 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 0 
+inicio = 4 
+len early candidates = 3 
+len late candidates = 7 
+time = 1.7642974853515625e-05 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 0 
+inicio = 0 
+len early candidates = 2 
+len late candidates = 8 
+time = 1.8358230590820312e-05 
+penalty construtiva = 1936 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 1 
+inicio = 14 
+len early candidates = 2 
+len late candidates = 8 
+time = 1.7881393432617188e-05 
+penalty construtiva = 2576 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 2 
+inicio = 6 
+len early candidates = 2 
+len late candidates = 8 
+time = 2.1457672119140625e-05 
+penalty construtiva = 2267 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 3 
+inicio = 4 
+len early candidates = 2 
+len late candidates = 8 
+time = 1.9073486328125e-05 
+penalty construtiva = 2422 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 4 
+inicio = -3 
+len early candidates = 2 
+len late candidates = 8 
+time = 1.9788742065429688e-05 
+penalty construtiva = 1131 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 5 
+inicio = 7 
+len early candidates = 3 
+len late candidates = 7 
+time = 1.9550323486328125e-05 
+penalty construtiva = 2093 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 6 
+inicio = 2 
+len early candidates = 3 
+len late candidates = 7 
+time = 2.2411346435546875e-05 
+penalty construtiva = 3000 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 0 
+inicio = 4 
+len early candidates = 3 
+len late candidates = 7 
+time = 1.811981201171875e-05 
+penalty construtiva = 2288 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 1 
+inicio = 14 
+len early candidates = 2 
+len late candidates = 8 
+time = 2.3126602172851562e-05 
+penalty construtiva = 2576 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 2 
+inicio = 6 
+len early candidates = 2 
+len late candidates = 8 
+time = 2.5033950805664062e-05 
+penalty construtiva = 2103 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 3 
+inicio = 4 
+len early candidates = 2 
+len late candidates = 8 
+time = 2.384185791015625e-05 
+penalty construtiva = 2412 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 4 
+inicio = -6 
+len early candidates = 2 
+len late candidates = 8 
+time = 2.2411346435546875e-05 
+penalty construtiva = 1077 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 5 
+inicio = 0 
+len early candidates = 3 
+len late candidates = 7 
+time = 2.7179718017578125e-05 
+penalty construtiva = 1592 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 6 
+inicio = 0 
+len early candidates = 2 
+len late candidates = 8 
+time = 2.2172927856445312e-05 
+penalty construtiva = 2612 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 0 
+inicio = -3 
+len early candidates = 2 
+len late candidates = 8 
+time = 1.9311904907226562e-05 
+penalty construtiva = 1774 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 1 
+inicio = 14 
+len early candidates = 2 
+len late candidates = 8 
+time = 3.3855438232421875e-05 
+penalty construtiva = 2099 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 2 
+inicio = 6 
+len early candidates = 2 
+len late candidates = 8 
+time = 3.695487976074219e-05 
+penalty construtiva = 3191 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 3 
+inicio = 4 
+len early candidates = 4 
+len late candidates = 6 
+time = 2.0503997802734375e-05 
+penalty construtiva = 2633 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 4 
+inicio = 6 
+len early candidates = 1 
+len late candidates = 9 
+time = 2.3126602172851562e-05 
+penalty construtiva = 1430 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 5 
+inicio = 0 
+len early candidates = 3 
+len late candidates = 7 
+time = 2.6464462280273438e-05 
+penalty construtiva = 1592 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 6 
+inicio = 2 
+len early candidates = 3 
+len late candidates = 7 
+time = 2.5033950805664062e-05 
+penalty construtiva = 3000 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 0 
+inicio = 4 
+len early candidates = 3 
+len late candidates = 7 
+time = 1.8596649169921875e-05 
+penalty construtiva = 2152 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 1 
+inicio = 14 
+len early candidates = 2 
+len late candidates = 8 
+time = 2.3365020751953125e-05 
+penalty construtiva = 1781 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 2 
+inicio = 6 
+len early candidates = 2 
+len late candidates = 8 
+time = 2.002716064453125e-05 
+penalty construtiva = 2259 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 3 
+inicio = 4 
+len early candidates = 4 
+len late candidates = 6 
+time = 2.47955322265625e-05 
+penalty construtiva = 2633 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 4 
+inicio = 6 
+len early candidates = 3 
+len late candidates = 7 
+time = 2.1696090698242188e-05 
+penalty construtiva = 1757 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 5 
+inicio = 7 
+len early candidates = 3 
+len late candidates = 7 
+time = 2.0503997802734375e-05 
+penalty construtiva = 2398 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 6 
+inicio = 0 
+len early candidates = 1 
+len late candidates = 9 
+time = 2.3126602172851562e-05 
+penalty construtiva = 2628 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 0 
+inicio = 4 
+len early candidates = 4 
+len late candidates = 6 
+time = 1.9311904907226562e-05 
+penalty construtiva = 2275 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 1 
+inicio = 14 
+len early candidates = 3 
+len late candidates = 7 
+time = 1.9073486328125e-05 
+penalty construtiva = 2734 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 2 
+inicio = 6 
+len early candidates = 3 
+len late candidates = 7 
+time = 2.0742416381835938e-05 
+penalty construtiva = 2313 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 3 
+inicio = 0 
+len early candidates = 4 
+len late candidates = 6 
+time = 2.09808349609375e-05 
+penalty construtiva = 2405 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 4 
+inicio = 6 
+len early candidates = 4 
+len late candidates = 6 
+time = 2.2411346435546875e-05 
+penalty construtiva = 1741 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 5 
+inicio = 0 
+len early candidates = 0 
+len late candidates = 10 
+time = 1.9788742065429688e-05 
+penalty construtiva = 1592 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 6 
+inicio = 2 
+len early candidates = 2 
+len late candidates = 8 
+time = 2.0265579223632812e-05 
+penalty construtiva = 2992 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 0 
+inicio = 4 
+len early candidates = 4 
+len late candidates = 6 
+time = 1.7881393432617188e-05 
+penalty construtiva = 2275 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 1 
+inicio = 14 
+len early candidates = 3 
+len late candidates = 7 
+time = 2.574920654296875e-05 
+penalty construtiva = 2137 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 2 
+inicio = 6 
+len early candidates = 1 
+len late candidates = 9 
+time = 1.9311904907226562e-05 
+penalty construtiva = 2103 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 3 
+inicio = 0 
+len early candidates = 5 
+len late candidates = 5 
+time = 1.6689300537109375e-05 
+penalty construtiva = 2285 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 4 
+inicio = 6 
+len early candidates = 3 
+len late candidates = 7 
+time = 1.7404556274414062e-05 
+penalty construtiva = 1473 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 5 
+inicio = 0 
+len early candidates = 2 
+len late candidates = 8 
+time = 1.5974044799804688e-05 
+penalty construtiva = 1781 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 6 
+inicio = 2 
+len early candidates = 4 
+len late candidates = 6 
+time = 1.9550323486328125e-05 
+penalty construtiva = 2854 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 0 
+inicio = 4 
+len early candidates = 4 
+len late candidates = 6 
+time = 1.8596649169921875e-05 
+penalty construtiva = 2964 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 1 
+inicio = 0 
+len early candidates = 3 
+len late candidates = 7 
+time = 2.4080276489257812e-05 
+penalty construtiva = 1431 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 2 
+inicio = 0 
+len early candidates = 1 
+len late candidates = 9 
+time = 1.8835067749023438e-05 
+penalty construtiva = 1731 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 3 
+inicio = 0 
+len early candidates = 2 
+len late candidates = 8 
+time = 2.4557113647460938e-05 
+penalty construtiva = 2184 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 4 
+inicio = 6 
+len early candidates = 4 
+len late candidates = 6 
+time = 2.4557113647460938e-05 
+penalty construtiva = 1511 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 5 
+inicio = 0 
+len early candidates = 4 
+len late candidates = 6 
+time = 2.5987625122070312e-05 
+penalty construtiva = 1628 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 6 
+inicio = 2 
+len early candidates = 4 
+len late candidates = 6 
+time = 2.5987625122070312e-05 
+penalty construtiva = 3593 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 0 
+inicio = 4 
+len early candidates = 4 
+len late candidates = 6 
+time = 1.7881393432617188e-05 
+penalty construtiva = 2469 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 1 
+inicio = 14 
+len early candidates = 3 
+len late candidates = 7 
+time = 3.62396240234375e-05 
+penalty construtiva = 1594 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 2 
+inicio = 6 
+len early candidates = 3 
+len late candidates = 7 
+time = 1.9311904907226562e-05 
+penalty construtiva = 2355 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 3 
+inicio = 4 
+len early candidates = 3 
+len late candidates = 7 
+time = 2.1219253540039062e-05 
+penalty construtiva = 2411 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 4 
+inicio = 6 
+len early candidates = 4 
+len late candidates = 6 
+time = 1.9550323486328125e-05 
+penalty construtiva = 1511 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 5 
+inicio = 7 
+len early candidates = 2 
+len late candidates = 8 
+time = 2.193450927734375e-05 
+penalty construtiva = 2296 
+======================================== 
+instancia = 10 
+h = 0.2 
+id = 6 
+inicio = 2 
+len early candidates = 2 
+len late candidates = 8 
+time = 2.3126602172851562e-05 
+penalty construtiva = 3220 
