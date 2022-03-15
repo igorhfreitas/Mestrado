@@ -1,0 +1,14 @@
+Practice: Classifiers for the Adult Dataset
+To be handed until May 15 in edisciplinas: a write-up, two pages long at most, in pdf format, describing the results obtained in the following task:
+
+1) Get the dataset Adult (either in the UCI Repository or in Kaggle).
+
+2) Analyze features, missing data, and overall characteristics of the dataset (using tools in sklearn). Select features, discretize numerical features, handle missing data. 
+
+3) Build a kNN classifier to predict class variable ">50k" (that is, whether person gets more than US$50k/year or not). Select the hyperparameter using cross-validation; test the final classifier using a holdout dataset.
+
+4) Repeat (3) using either a classification tree or a random forest.
+
+5) Present accuracy, precision and recall for the best classifier in (3) and in (4).
+
+6) Extra points: repeat (3) using a Multi-Layer Perceptron. 
